@@ -1,0 +1,18 @@
+Task List
+=========
+1.Constructing PigGame
+	- Instantiate a Die [DONE]
+	- Create roll method for numbers 1 to 6 [DONE]
+	- Allow a player to roll [DONE]
+	- Allow a player to hold [DONE]
+	- Recognize and differentiate each game type[DONE]
+	- Recognize a winning game state[DONE]
+	- Play a game of each type[DONE]
+	- Check for Parameters of PigGame[DONE]
+		- No Dice were given for a game [DONE]
+		- scoreNeeded is less than or equall to 1 [DONE]
+		- Not enough Die given for a TWO_DICE game [DONE]
+	- Check for Exceptions of Roll, Hold, and PigGame [DONE]
+		- A player holds before rolling [DONE]
+		- A player tries to hold or roll once a game is over [DONE]
+	
